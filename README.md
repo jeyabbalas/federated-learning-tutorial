@@ -1,2 +1,3 @@
-# federated_learning_tutorial
-Codebase to teach myself Federated Learning
+# Federated Learning — Tutorial
+
+This repository will contain the codebase to teach myself Federated Learning in Python and TensorFlow.
